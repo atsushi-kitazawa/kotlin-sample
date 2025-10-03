@@ -8,4 +8,13 @@ fun main() {
 //    instance.aggregate()
 
     // MapPractice
+
+    // WhenPractice
+//    val instance = WhenPractice()
+//    instance.stringWhen("a")
+//    instance.stringWhen2("hoge")
+
+    // NullPractice
+    val instance = NullPractice()
+    instance.nullTest1()
 }
