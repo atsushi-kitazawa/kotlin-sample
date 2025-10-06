@@ -15,6 +15,10 @@ fun main() {
 //    instance.stringWhen2("hoge")
 
     // NullPractice
-    val instance = NullPractice()
-    instance.nullTest1()
+//    val instance = NullPractice()
+//    instance.nullTest1()
+
+    // InterfacePractice
+    val instance = InterfacePractice()
+    instance.test1()
 }
