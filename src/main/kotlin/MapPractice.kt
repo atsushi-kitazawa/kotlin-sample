@@ -19,4 +19,8 @@ class MapPractice {
             println("key:$key, value:$value")
         }
     }
+
+    fun filterKey() {
+        employee.filterKeys { key -> key % 2 == 0 }.forEach { println(it) }
+    }
 }

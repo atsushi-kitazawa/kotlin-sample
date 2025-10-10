@@ -34,4 +34,5 @@ fun main() {
     instance.printMap()
     instance.get()
     instance.mapKeys()
+    instance.filterKey()
 }
